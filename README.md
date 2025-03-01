@@ -8,7 +8,7 @@ This project is a simple **Attendance Management System** implemented in **C++**
 ✅ Add new students/employees to the system  
 ✅ Mark attendance for a specific date  
 ✅ View attendance records  
-✅ User-friendly interface with simple menu-driven functionality  
+✅ User-friendly interface with simple menu-driven functions
 ✅ Data is stored persistently (if file handling is implemented)  
 
 ## **Requirements**  
