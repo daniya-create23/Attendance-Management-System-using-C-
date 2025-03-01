@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\daniya imran\onedrive\documents\visual studio 2015\projects\consoleapplication27\consoleapplication27\source.cpp(1017): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\daniya imran\onedrive\documents\visual studio 2015\projects\consoleapplication27\consoleapplication27\source.cpp(1230): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  ConsoleApplication27.vcxproj -> c:\users\daniya imran\onedrive\documents\visual studio 2015\Projects\ConsoleApplication27\Debug\ConsoleApplication27.exe
+  ConsoleApplication27.vcxproj -> c:\users\daniya imran\onedrive\documents\visual studio 2015\Projects\ConsoleApplication27\Debug\ConsoleApplication27.pdb (Full PDB)
