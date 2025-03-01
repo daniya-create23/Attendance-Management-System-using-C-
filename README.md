@@ -45,6 +45,7 @@ After compilation, run the program with:
 Feel free to **fork** this project, suggest improvements, or submit pull requests!  
 
 ## **License**  
+
 This project is open-source and free to use for educational purposes.  
 A simple Attendance Management System in C++, developed using Visual Studio.
 ---
