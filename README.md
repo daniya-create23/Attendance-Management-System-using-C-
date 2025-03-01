@@ -40,12 +40,13 @@ After compilation, run the program with:
 🚀 Add a graphical user interface (GUI)  
 🚀 Integrate a database for better scalability  
 
+
 ## **Contributing**  
 Feel free to **fork** this project, suggest improvements, or submit pull requests!  
 
 ## **License**  
 This project is open-source and free to use for educational purposes.  
-
+A simple Attendance Management System in C++, developed using Visual Studio.
 ---
 
 Let me know if you want any modifications! 🚀
